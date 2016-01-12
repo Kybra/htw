@@ -1,0 +1,28 @@
+h1,h2,h3 {
+  font-family: Arial;, sans-serif;
+}
+
+p {
+  font-family: Arial;, sans-serif;
+}
+
+.wrapper{
+border: 3px solid; float: left;
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+background-color:#FFFFFF;
+
+}
+.header{
+  height: 85px;
+  width: auto;
+  margin-bottom: 40px;
+  background:#white;
+}
+.part1 {}
+.part1 strong{
+  display: inline-block;
+width:200px;
+
+}
